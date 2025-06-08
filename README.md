@@ -10,7 +10,7 @@ I'm a passionate software engineer building intelligent and decentralized applic
 - 🚀 Explore the convergence of **AI and blockchain** to push innovation forward  
 
 ## 🧠 Tech I Love Working With
-• `Html `• `Css ` • `Tailwind css ` • `React `• `Next.js` • `PostgreSQL` • `LangChain` • `LangGraph` • `LLMs` • `Smart Contracts` • `Solidity` • `Node.js` • ` Express.js` • `Prompt Engineering ` • ` Mongodb`
+• `Html `• `Css ` • `Tailwind css ` • `React `• `Next.js` • `Typescript ` • `PostgreSQL` • `LangChain` • `LangGraph` • `LLMs` • `Smart Contracts` • `Solidity` • `Node.js` • ` Express.js` • `Prompt Engineering ` • ` Mongodb`
 
 Whether it's streamlining workflows, personalizing user experiences, or decentralizing data, I enjoy building meaningful tech that bridges the gap between intelligence and trust.
 
