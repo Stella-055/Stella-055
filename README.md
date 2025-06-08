@@ -3,7 +3,7 @@
 I'm a passionate software engineer building intelligent and decentralized applications at the intersection of **AI** and **Web3**. My work blends deep expertise in **AI agent design**, **LLMs**, **LangChain/LangGraph**, and **smart contract development** to create powerful, scalable solutions—whether in **centralized** or **decentralized** ecosystems.
 
 ## ⚒️ What I Do
-- 🤖 Build and fine-tune **AI agents** using tools like **LangChain**, **LangGraph**, and transformer-based models  
+- 🤖 Build and fine-tune **AI agents** using tools like **LangChain**, **LangGraph**, and  **ransformer-based models**
 - 🔗 Develop **smart contracts** and **Web3 DApps** on Ethereum and other chains  
 - 🌐 Create full-stack AI-powered apps with **Next.js**, **PostgreSQL**,**Mongodb** and cloud integrations
 - 🤖 Integrate **AI into decentralized and centralized applications**, exploring how intelligence and trust can power the next-gen internet
