@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stella — Software Engineer | AI & Blockchain Enthusiast
 
-I'm a passionate software engineer building intelligent and decentralized applications at the intersection of **AI** and **Web3**. My work blends deep expertise in **AI agent design**, **LLMs**, **LangChain/LangGraph**, and **smart contract development** to create powerful, scalable solutions—whether in **centralized** or **decentralized** ecosystems.
+I'm a passionate software engineer building intelligent and decentralized applications at the intersection of **AI** and **Web3**. My work blends deep expertise in **Fullstack web development**, **Working with LLMs**, **AI agent design**, **LangChain/LangGraph**, and **smart contract development** to create powerful, scalable solutions—whether in **centralized** or **decentralized** ecosystems.
 
 ## ⚒️ What I Do
 - 🤖 Work with **LLMs** ,fine-tune **AI agents** using tools like **LangChain**, **LangGraph**
