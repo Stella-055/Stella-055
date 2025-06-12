@@ -15,5 +15,5 @@ I'm a passionate software engineer building intelligent and decentralized applic
 Whether it's streamlining workflows, personalizing user experiences, or decentralizing data, I enjoy building meaningful tech that bridges the gap between intelligence and trust.
 
 ---
+![image](https://github.com/user-attachments/assets/e40f88a8-364e-4089-9b0f-3d8e843af16c)
 
-📫 Let's connect and build the future together!
