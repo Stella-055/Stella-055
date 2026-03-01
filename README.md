@@ -3,8 +3,8 @@
 I'm a passionate software engineer building intelligent and decentralized applications at the intersection of **Web2** and **Web3**. My work blends deep expertise in **Fullstack web development**, **Working with LLMs** and **smart contract development** to create powerful, scalable solutions—whether in **centralized** or **decentralized** ecosystems.
 
 ## ⚒️ What I Do
-- 🌐 Create full-stack AI-powered apps with  **Typescript**, **React**, **Next.js**, **PostgreSQL**,**Mongodb** **Express.js**,
-- 🤖 Work with **LLMs** ,fine-tune **AI agents** using tools like **LangChain**, **LangGraph**
+- 🌐 Create full-stack AI-powered apps with  **Typescript**, **React**, **Next.js**, **PostgreSQL**,**Mongodb**,**node** **Express.js**,
+- 🤖 Work with **LLMs** ,genAi, fine-tune **AI agents**, **Rag**, using tools like **LangChain**, **LangGraph**
 - 🔗 Develop **smart contracts** and **Web3 DApps** on Ethereum and other chains  
 - 🤖 Integrate **AI into decentralized and centralized applications**, exploring how intelligence and trust can power the next-gen internet
 - 🚀 Explore the convergence of **AI and blockchain** to push innovation forward  
