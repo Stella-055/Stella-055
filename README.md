@@ -4,10 +4,11 @@ I'm a passionate software engineer building intelligent and decentralized applic
 
 ## ⚒️ What I Do
 - 🌐 Create full-stack AI-powered apps with  **Typescript**, **React**, **Next.js**, **PostgreSQL**,**Mongodb**,**node** **Express.js**,
-- 🤖 Work with **LLMs** ,genAi, fine-tune **AI agents**, **Rag**, using tools like **LangChain**, **LangGraph**
+- 🤖 Work with **LLMs** ,**AI agents**, **Rag**, using tools like **LangChain**, **LangGraph**
 - 🔗 Develop **smart contracts** and **Web3 DApps** on Ethereum and other chains  
 - 🤖 Integrate **AI into decentralized and centralized applications**, exploring how intelligence and trust can power the next-gen internet
-- 🚀 Explore the convergence of **AI and blockchain** to push innovation forward  
+- 🚀 Explore the convergence of **AI and blockchain** to push innovation forward
+- 🛠️ Build & deploy with **CI/CD** pipelines, **Docker** containerization, and **AWS** cloud infrastructure (EC2, ECS... )
 
 ## 🧠 Tech I Love Working With
 • `Html `• `Css ` • `Tailwind css ` • `React `• `Next.js` • `Typescript ` • `PostgreSQL` • `LLMs` • `Smart Contracts` • `Solidity` • ` Ethers.js` • ` hardhat` •  `Node.js` • ` Express.js` • `Prompt Engineering ` • ` Mongodb`
